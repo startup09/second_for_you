@@ -1,1 +1,4 @@
-Mockup first page index
+Mockup first page inde
+
+TODOs:
+x
